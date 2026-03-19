@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./acm-san-antonio-logo-color.png" alt="ACM San Antonio logo" width="180" />
+  <img src="../acm-san-antonio-logo-color.png" alt="ACM San Antonio logo" width="180" />
 </p>
 
 <h1 align="center">ACM San Antonio</h1>
